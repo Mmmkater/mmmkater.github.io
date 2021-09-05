@@ -1,2 +1,2 @@
-# finn-e.github.io
-Fin's page. Lives at fin.oflaherty.is
+# kate.github.io
+Kate's page. Lives at kate.oflaherty.is
